@@ -15,7 +15,7 @@ A documented archive of enterprise hardware diagnostics, repairs, and troublesho
 
 | Repair ID | Device | Issue | Report |
 |---|---|---|---|
-| PickPod-113 001 | Monitor/PC | Frozen Screen | [View Report](./TC57-Repair-001/TC57-REPAIR-001-Report.pdf) |
+| PickPod-113-001 | Monitor/PC | Frozen Screen | [View Report](./TC57-Repair-001/TC57-REPAIR-001-Report.pdf) |
 | * | * | | Coming Soon |
 | * | * | | Coming Soon |
 | * | * | | Coming Soon |
