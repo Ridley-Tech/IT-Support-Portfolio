@@ -6,7 +6,7 @@ A documented archive of enterprise hardware diagnostics, repairs, and troublesho
 
 | Repair ID | Device | Issue | Report |
 |---|---|---|---|
-| TC57-001 | Zebra TC57 | Screen Replacement | [View TC57 Repair 001 PDF](TC57-Repair-001-Report.pdf) |
+| TC57-001 | Zebra TC57 | Screen Replacement | [View Report](./TC57-Repair-001/TC57-Repair-001-Report.pdf) |
 | TC57-002 | Zebra TC57 | | Coming Soon |
 | TC57-003 | Zebra TC57 | | Coming Soon |
 | TC57-004 | Zebra TC57 | | Coming Soon |
