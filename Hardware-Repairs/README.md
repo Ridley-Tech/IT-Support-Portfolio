@@ -10,11 +10,3 @@ A documented archive of enterprise hardware diagnostics, repairs, and troublesho
 | TC57-002 | Zebra TC57 | | Coming Soon |
 | TC57-003 | Zebra TC57 | | Coming Soon |
 | TC57-004 | Zebra TC57 | | Coming Soon |
-
-## Skills Demonstrated
-
-- Hardware diagnostics
-- Device teardown
-- Component replacement
-- Troubleshooting
-- Repair documentation
