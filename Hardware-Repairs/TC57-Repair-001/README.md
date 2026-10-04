@@ -40,3 +40,6 @@ Repair documented. Additional troubleshooting performed after initial display is
 ## Documentation
 
 Full repair report PDF will be added.
+## Full Report
+
+[View TC57 Repair 001 PDF](TC57-Repair-001-Report.pdf)
