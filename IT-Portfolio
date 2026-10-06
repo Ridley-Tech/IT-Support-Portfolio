@@ -1,1 +1,128 @@
+# IT Career Portfolio
 
+A continuously updated record of my hands-on growth across IT support, hardware troubleshooting, networking, and technical documentation.
+
+This repository contains documented repairs, troubleshooting cases, and networking labs completed through practical experience and self-directed learning.
+
+---
+
+# IT Support
+
+## Hardware Repairs
+
+Hands-on hardware troubleshooting and repair documentation.
+
+### Completed Projects
+
+- Zebra Devices
+  - Zebra TC57 Hardware Repair Documentation
+  - Display troubleshooting and hardware diagnostics
+  - Component inspection and repair documentation
+
+- Printers
+  - Printer troubleshooting documentation
+
+- Workstations
+  - Enterprise workstation troubleshooting documentation
+
+📁 Folder:
+`IT Support/Hardware Repairs`
+
+---
+
+# Networking
+
+Hands-on Cisco Packet Tracer labs focused on network configuration, segmentation, routing, and troubleshooting.
+
+## Networking Troubleshooting Labs
+
+Completed network troubleshooting exercises.
+
+📁 Folder:
+`Networking/Networking Troubleshooting Labs`
+
+---
+
+## VLAN & Switching
+
+### NET-001 — VLAN Segmentation & Switching Configuration
+
+Configured and documented:
+
+- VLAN creation
+- Switch port assignment
+- Access port configuration
+- Network segmentation
+
+📁 Folder:
+`Networking/VLAN & Switching`
+
+---
+
+## Routing
+
+### NET-002 — Inter-VLAN Routing Configuration Lab
+
+Configured and documented:
+
+- VLAN communication between separate networks
+- Router subinterfaces
+- Switch-to-router trunk configuration
+- Inter-VLAN connectivity testing
+- Cisco CLI troubleshooting
+
+📁 Folder:
+`Networking/Routing`
+
+---
+
+# Windows VM Incident Documentation
+
+Hands-on Windows troubleshooting documentation.
+
+Completed:
+
+- Windows VM Incident 001
+- Windows VM Incident 002
+
+Documentation includes:
+
+- Issue identification
+- Troubleshooting process
+- Resolution steps
+- Technical findings
+
+---
+
+# Documentation Standards
+
+Each project includes:
+
+- Overview
+- Environment details
+- Configuration or repair steps
+- Troubleshooting process
+- Testing results
+- Evidence screenshots
+- Lessons learned
+
+---
+
+# Repository Structure
+
+```text
+IT Career Portfolio
+
+├── IT Support
+│   └── Hardware Repairs
+│       ├── Zebra
+│       ├── Printers
+│       └── Workstations
+│
+├── Networking
+│   ├── Networking Troubleshooting Labs
+│   ├── VLAN & Switching
+│   └── Routing
+│
+└── Windows VM Incident Documentation
+```
